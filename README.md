@@ -4,7 +4,7 @@
 
 ---
 
-# 🇺🇸 English
+# 🌐 English
 
 ## 🚀 Overview
 
@@ -56,7 +56,7 @@ Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](screenshots/dashboard1.png)
 
 ---
 
