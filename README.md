@@ -107,4 +107,4 @@ personal-finance-bi-dashboard/
 
 ---
 
-## 💖 Author Astrid Coy.
+## 💖 Author Astrid Coy. 
